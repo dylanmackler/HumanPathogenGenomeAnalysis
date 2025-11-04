@@ -1,0 +1,21 @@
+---
+title: "Human Pathogen Genome Analysis"
+author: "Dylan Mackler"
+format:
+  html:
+    toc: true
+    toc_float: true
+    embed-resources: true
+    theme: darkly
+execute: 
+  warning: false
+  message: false
+---
+
+**About me**
+
+I’m a senior biology student at UMass Amherst interested in scientific data communications. My work in biotechnology and healthcare communication has helped shape complex biological insights into clear, data-driven interpretations that inform research and business decisions. I’m pursuing a career in biotech or healthcare consulting, where I can connect scientific innovation with real-world medical and patient impact.
+
+![UMass Amherst](umassbanner.jpeg)
+
+[Lab 7](Lab7_DylanMackler.html)
